@@ -1,0 +1,17 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  use-reusable-workflow:
+    uses: SamG1008/global-ci/.github/workflows/global-ci.yml@main
+    with:
+      node_version: "22"
+      test_command: "npm run test"
+      build_command: "npm run build"
+    secrets:
+      GH_PAT: ${{ secrets.GH_PAT }}
