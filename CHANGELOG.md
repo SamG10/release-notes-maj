@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/SamG10/release-notes-maj/compare/v1.0.0...v1.0.1) (2025-02-28)
+
+
+### Bug Fixes
+
+* push a fix ([befaf3e](https://github.com/SamG10/release-notes-maj/commit/befaf3ed32310629f5d7adf130d3f9b75cba59ff))
+* test fix ([0a7986d](https://github.com/SamG10/release-notes-maj/commit/0a7986dcca633742c1bc0b095e784d5e7ad81297))
+
 # 1.0.0 (2025-02-28)
 
 
