@@ -8,7 +8,7 @@ on:
 
 jobs:
   use-reusable-workflow:
-    uses: SamG1008/global-ci/.github/workflows/global-ci.yml@main
+    uses: SamG10/global-ci/.github/workflows/global-ci.yml@main
     with:
       node_version: "22"
       test_command: "npm run test"
