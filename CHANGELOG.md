@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/SamG10/release-notes-maj/compare/v1.0.1...v1.0.2) (2025-02-28)
+
+
+### Bug Fixes
+
+* username ([39b831d](https://github.com/SamG10/release-notes-maj/commit/39b831d224443f101e97a982ce5b6e13b7edd529))
+
 ## [1.0.1](https://github.com/SamG10/release-notes-maj/compare/v1.0.0...v1.0.1) (2025-02-28)
 
 
