@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/SamG10/release-notes-maj/compare/v1.0.3...v1.0.4) (2025-02-28)
+
+
+### Bug Fixes
+
+* string script ([0705aba](https://github.com/SamG10/release-notes-maj/commit/0705abac0dd1ca4be9b0fcf5a5ccb9ed4095853e))
+
 ## [1.0.3](https://github.com/SamG10/release-notes-maj/compare/v1.0.2...v1.0.3) (2025-02-28)
 
 
